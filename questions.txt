@@ -1,0 +1,50 @@
+Mi a kulonbseg a val es var kozott?
+A val immutable , mig a var mutable
+Nincs kulonbseg
+A var immutable a val mutable
+A var read-only
+Mit csinal a joinToString fuggveny?
+Osszefuzi a lista elemeit
+Visszaadja a lista hosszat
+Osszehasonlit ket stringet
+Megmondja hany elem van a listavan
+Mit csinal a map?
+Vegrehajt egy transzformaciot a bemeneti listan.
+Nem listakra hasznaljuk
+Osztalyt hoz letre
+Interfacet definial
+Mi jelent az open kulcsszo osztaly eseteben?
+Lehet belole szarmaztatni
+Nem lehet belole szarmaztatni
+Jelzi hogy egy interfacet inmplementalunk
+Absztrakt osztalyt jelez
+Mi a konstrukot blokk neve kotlinban?
+init
+super
+override
+class
+Mit jelent a lateinit?
+A kifejezes csak kesobb kap erteket
+A valtozo val tipusu
+A valtozo var tipusu
+Egy uj tipust definial
+Mire vonatkozik a to infix operator?
+Elempart definial
+Listaban valo iteralashoz hasznaljuk
+Osszefuz ket listas
+Szarmaztatasnal hasznaljuk
+Milyen tipusu fuggney a kovetkezo: fun string.lastChart()=this.get(this.length-1)
+extension
+unit
+local
+top-level
+Mi igaz a set-re?
+Nincsenek benne duplumok
+Vannak benne duplumok
+Nem hasznal kiegyensulyozott keresofat
+Nem tudunk benne tarolni elemeket
+Hogyan hasonlitunk a kovetkezo peldaban: S1===S2
+referencia szerint
+tartalom szerint
+tipus szerint
+kezdobetu alapjan
